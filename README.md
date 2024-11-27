@@ -1,4 +1,6 @@
 Autonomous Car Using Raspberry Pi 4
+
+
 Overview:
 This project demonstrates an autonomous car prototype built on a four-wheel chassis using Raspberry Pi 4. 
 It mimics self-driving car functionalities by navigating lanes automatically and detecting obstacles.
@@ -10,4 +12,8 @@ Lane Tracking: Tracks the center points of lanes to guide the car's navigation.
 Fine-tuned YOLOv8: A custom-trained YOLOv8 model is used for precise obstacle detection and object segmentation.
 Object Analysis: Calculates object center points and divides the frames to determine safe movement paths.
 Depth Mapping: Utilizes MiDaS for depth estimation, improving obstacle avoidance and path planning.
+
+https://github.com/user-attachments/assets/b5002c63-71e7-4bbe-bb1d-228515494a07
+
+
 This project showcases the integration of advanced AI models and real-time decision-making for autonomous navigation.
